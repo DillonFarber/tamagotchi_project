@@ -15,10 +15,11 @@ def main():
     #init pygame
     pygame.init()
     
-    icon = pygame.image.load('assets/icons/tamagotchi.png')
+    icon = pygame.image.load('tamagatchi/assets/icons/tamagotchi.png')
     pygame.display.set_icon(icon)
     pygame.display.set_caption('Tamagatchie')
-    window = pygame.display.set_mode((500,250))
+    # The window size w x h
+    window = pygame.display.set_mode((500,250), pygame.NOFRAME)
     screen = pygame.display.get_surface()
     
     # screen.blit()
@@ -27,7 +28,7 @@ def main():
     running = True
     while running:
         input(pygame.event.get())
-        screen.fill(( 255, 255, 255))
+        screen.fill(( 255, 0, 0))
         pygame.display.update()
     
     
