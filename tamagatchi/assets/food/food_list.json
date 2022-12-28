@@ -1,0 +1,195 @@
+{
+    "Food" : [
+        {
+            "name" : "Tin",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/tin.(3d-format)",
+            "RFID" : "id"
+        },
+        {
+            "name" : "Tin Armor",
+            "points" : [5,7],
+            "bonuses" : {"Armor": 2},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" : "Steel",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" : "steel plate armor",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food)",
+            "RFID" : "id"
+        },
+        {
+            "name" : "cerimic",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" :"ceramic armor",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" : "grass",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "atamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" : "oak",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" : "fir",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" : "red oak",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" : "wood armor",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" : "crystal",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" : "crystal armor",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" : "ruby",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" : "ruby armor",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" : "jade",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" : "jade armor",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" : "fish",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" : "chicken",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" : "foul",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" : "bone",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" : "bone armor",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" :"carbon",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        },
+        {
+            "name" : "carbon plate armor",
+            "type" : "Metal",
+            "points" : [3,5],
+            "bonuses" : {},
+            "imagePath" : "tamagatchi/assets/food/",
+            "RFID" : "id"
+        }
+    ]
+}
